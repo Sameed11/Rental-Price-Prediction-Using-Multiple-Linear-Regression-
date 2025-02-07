@@ -1,6 +1,6 @@
-# 📊 Rental Price Prediction Using Multipe Linear Regression (R)
+# 📊 Rental Price Prediction Using Multipe Linear Regression
 
-This project analyzes **rental housing data** and predicts **price per square meter** using **linear regression models**. The dataset is processed, cleaned, and analyzed to extract insights and develop predictive models.
+This project analyzes **rental housing data** and predicts **price per square meter** using ** Multiple linear regression models**. The dataset is processed, cleaned, and analyzed to extract insights and develop predictive models.
 
 ## 🔹 Key Features
 - ✔️ **Data Preprocessing** – Handling missing values, feature engineering, dummy variable encoding  
