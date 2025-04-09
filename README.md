@@ -12,4 +12,4 @@ This project analyzes **rental housing data** and predicts **price per square me
 ## 🔹 Tech Stack
 - **Programming Language:** R  
 - **Libraries Used:** `dplyr`, `tidyverse`, `ggplot2`, `skimr`, `bestglm`  
-- **Dataset:** `ImmoDataNRW.csv` (Rental price data for Dortmund)  
+- **Dataset:** `ImmoDataNRW.csv` 
